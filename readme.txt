@@ -1,5 +1,5 @@
 === Disable Wp Updates & Notifications  ===
-Contributors: abhay-raj
+Contributors: abhay-raj, abhay
 Donate link: http://paypal.me/abhayyadav
 Tags: all updates, disable, disable WordPress updates, disable WordPress updates advance, disable wordpress core updates, disable wordpress plugin updates, disable wordpress theme updates, disable wordpress updates, disable updates, disable update email
 Requires at least: 4.0
